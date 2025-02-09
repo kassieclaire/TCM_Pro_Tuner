@@ -1,0 +1,19 @@
+﻿Pro Settings,Description,Possible Values
+Final Drive,Short = More Acceleration | Long = More Top Speed,-20% to 0%
+Power Distribution,How Much power you want to each set of wheels. (4WD Cars),60% to 20%
+Grip Front,Less = Increased Understeer,-20% to 0%
+Grip Rear,Less = Increased Oversteer,-20% to 0%
+Brake Balance,More to rear = More Oversteer | More to Front = More Understeer,80% to 40%
+Brake Power,Reduce to smooth out braking behavior for more realistic ride.,-30% to 0%
+Load Front,Less = Increased Understeer,-30% to 0%
+Load Rear,Less = Increased Oversteer,-30% to 0%
+Spring Front,"Effects mass transfer during acceleration, braking and cornering. Stiffer = More Grip/More Oversteer.",-20% to 10%
+Spring Rear,"Effects mass transfer during acceleration, braking and cornering. Stiffer = More Grip/More Understeer.",-20% to 10%
+Damper Compression Front,Effects the rate the front wheels travel upward when hitting a bump.,-20% to 20%
+Damper Compression Rear,Effects the rate the rear wheels travel upward when hitting a bump.,-20% to 20%
+Damper Rebound Front,Effects the rate the front wheels travel downward after hitting a bump.,-20% to 20%
+Damper Rebound Rear,Effects the rate the rear wheels travel downward after hitting a bump.,-20% to 20%
+ARB Front,Less = More Oversteer | More = More Understeer,-20% to 10%
+ARB Rear,Less = More Understeer | More = More Oversteer,-20% to 10%
+Camber Front,Negative Camber = Increased grip in corners + less grip in straights,-0.25 to 0.25
+Camber Rear,Negative Camber = Increased grip in corners + less grip in straights,-0.25 to 0.25
